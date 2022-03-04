@@ -1,13 +1,6 @@
 <html>
 <head>
 <link href="suresh2ndmarch.css" rel="stylesheet" type="text/css">
-  img
-{
-float:left;
-width:500px;
-height:260px;
-padding:0 10px 0 0 ;
-}
 
 <body>
 <img src="https://cdn3.ticketnew.com/partners/img/VCelluloids/logo.png"/>
@@ -16,3 +9,9 @@ padding:0 10px 0 0 ;
 
 </p>
   <P><center><h1 style="color:green">(india's largest cinema screen)</h1></h1></center>
+  <div class="linkspart">
+<a href="home.html">HOME</a>
+<a href="contact.html">CONTACT</a>
+<a href="staff details.html">STAFF DETAILS</a>
+</div>
+
