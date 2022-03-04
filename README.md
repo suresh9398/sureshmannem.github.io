@@ -46,6 +46,8 @@ he is working since 6 years in v celluloids company, he was joined GRA designati
     <center><h1 style="color:rgb">Store Manager Of V epiq(india's largest screen)</h1></center>
 <div class="imagepart1">
 <img src="C:\Users\Admin\Downloads\TL.jpeg"/>
+<img src="https://user-images.githubusercontent.com/99287692/156856931-b7a11e77-70b8-48a2-a1f3-6639014431ba.jpeg"/>
+
 
 
 
