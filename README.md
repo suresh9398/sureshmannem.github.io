@@ -33,6 +33,9 @@ Constructed at a cost of Rs.10 crores, the 656-seater EPIQ screen packages state
 </p>
     </div>
 <center><h1 style="color:rgb">Cinema Manager Of V epiq(india's largest screen)</h1></center>
+  <img src="C:\Users\Admin\Downloads\cm.jpeg"/>
+  ![cm](https://user-images.githubusercontent.com/99287692/156856392-d82ddd4e-5027-4364-99ef-7af2c12af183.jpeg)
+
 
 
 
