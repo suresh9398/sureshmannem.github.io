@@ -63,6 +63,51 @@ he is working since 6 years in v celluloids company, he was joined GRA designati
 <p><b>Work Address:-V epiq cinema theater, sullurpeta, Sarvareddi Khandrika,Nellore District, Andhra Pradesh, 524121 .................................................................................................................................................................................................</b></p>
   <center><p><h2 style="color:DodgerBlue">All Rights Reserved At MR.SURESH MANNEM@2022</h2></p></center>
 </div>
+  
+  .imagepart
+{
+margin:100px auto;
+width:100%;
+padding:2px;
+}
+img
+{
+float:left;
+width:500px;
+height:260px;
+padding:0 10px 0 0 ;
+}
+.container
+{
+float:left;
+width:auto;
+height:auto;
+padding:2px;
+}
+.text
+{
+text-align:justify;
+font-family:times new roman;
+}
+.linkspart
+{
+text-align:center;
+padding:5px;
+width:50%;
+float:left;
+}
+.imagepart1
+{
+float:left;
+width:auto;
+height:auto;
+}
+.imagepart2
+{
+float:left;
+width:auto;
+height:auto;
+}
 
 
 
