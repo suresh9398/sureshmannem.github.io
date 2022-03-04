@@ -47,6 +47,12 @@ he is working since 6 years in v celluloids company, he was joined GRA designati
 <div class="imagepart1">
 <img src="C:\Users\Admin\Downloads\TL.jpeg"/>
 <img src="https://user-images.githubusercontent.com/99287692/156856931-b7a11e77-70b8-48a2-a1f3-6639014431ba.jpeg"/>
+  <p><b>There Vinod Kumar</b> is an present store manager of v epiq cinmea theater(indias largest screen). he joined as GRA designation role in this company. for his hard work company was given store keeper opportunity as crucial key part.. and for the purpose of training he went to guntur(v platinum complex).. and returned home theater(v epiq) as a store manager....and as well as he is doing team leader role also in this v epiq cinmea theater..and he is very friendly and honestful to the staff.. because of he  was came from as a position og Gra to Store manager... every minute he is trying his efforts in this compnay...............................................................................................................................................
+<p><b style="color:green">Designation:-Store Manager</b></p>
+<p><b>for contact him:- 9876543210</b></p>
+<p><b>G-mail:-lovelyvinod@gmail.com</b></p>
+<p><b>Work Address:-V epiq cinema theater,sullurpeta, Sarvareddi Khandrika,Nellore District, Andhra Pradesh, 524121................................................................................</b></p>
+
 
 
 
