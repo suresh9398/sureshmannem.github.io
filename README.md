@@ -31,6 +31,9 @@ Constructed at a cost of Rs.10 crores, the 656-seater EPIQ screen packages state
 “There may be similar premium large format cinema screens in China and South Korea, but this would definitely be the first in India,” said Senthil Kumar co-founder of Qube Cinema, which has installed the EPIQ screen.
 
 </p>
+    </div>
+<center><h1 style="color:rgb">Cinema Manager Of V epiq(india's largest screen)</h1></center>
+
 
 
 
