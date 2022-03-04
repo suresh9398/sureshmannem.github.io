@@ -36,6 +36,19 @@ Constructed at a cost of Rs.10 crores, the 656-seater EPIQ screen packages state
   <div class="container">
   <img src="C:\Users\Admin\Downloads\cm.jpeg"/>
   <img src="https://user-images.githubusercontent.com/99287692/156856392-d82ddd4e-5027-4364-99ef-7af2c12af183.jpeg"/>
+    .container
+{
+float:left;
+width:auto;
+height:auto;
+padding:2px;
+}
+.text
+{
+text-align:justify;
+font-family:times new roman;
+}
+
   <p><b>Muni Raja Reddy</b> is an present cinema manager of v epiq cinema theater(indias largest screen). he was came from <i> chilakalurupet</i> to <i> sullurupeta</i> for the orders of vcelluloids company as a cinema manager.and now he is doing great work and groomings in v epiq theater. for his hardwork , the v celluloids company giving higher position due to his consistency and hardwork and groomings. and he is very honest and thankful person to the staff...
 he is working since 6 years in v celluloids company, he was joined GRA designation in the company since from that he is doing hard work and smart efforts. he is  growing well from GRA TO CINEMA MANAGER........................................................................
 </p>
