@@ -55,6 +55,13 @@ he is working since 6 years in v celluloids company, he was joined GRA designati
 <center><h1 style="color:rgb">Team Leader Of V epiq(india's largest screen)</h1></center><div class="imagepart2">
   <img src="C:\Users\Admin\Downloads\TL2.jpeg"/>
 <img src="https://user-images.githubusercontent.com/99287692/156857163-4566ccd4-5941-4888-acd8-862e18a7cef8.jpeg"/>
+  </div>
+<p><b>Chirala Shiva Kumar</b> is an present Team Leader of v epiq cinmea theater(indias largest screen). he joined as GRA designation role in this company. for his hard work company was given Team leader role in this company.. present he is growing well as team leader..he is very friendly and honestful to the staff.. because of he  was came from as a position og Gra to Store manager... every minute he is trying his efforts in this compnay</p>
+<p><b style="color:blue">Designation:-Team Leader</b></p>
+<p><b>for contact him:-9876543210</b></p>
+<p><b>G-mail:-chiralashivakumar@gmail.com</b></p>
+<p><b>Work Address:-V epiq cinema theater, sullurpeta, Sarvareddi Khandrika,Nellore District, Andhra Pradesh, 524121 .................................................................................................................................................................................................</b></p>
+
 
 
 
