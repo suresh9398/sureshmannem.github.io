@@ -1,7 +1,14 @@
-<img src="https://cdn3.ticketnew.com/partners/img/VCelluloids/logo.png"/>
 <html>
 <head>
 <link href="suresh2ndmarch.css" rel="stylesheet" type="text/css">
+  img
+{
+float:left;
+width:500px;
+height:260px;
+padding:0 10px 0 0 ;
+}
+
 <body>
 <img src="https://cdn3.ticketnew.com/partners/img/VCelluloids/logo.png"/>
 <center><h1 style="color:purple;" "center">About Vcelluloids Company</h1></center>
