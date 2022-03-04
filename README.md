@@ -52,6 +52,7 @@ he is working since 6 years in v celluloids company, he was joined GRA designati
 <p><b>for contact him:- 9876543210</b></p>
 <p><b>G-mail:-lovelyvinod@gmail.com</b></p>
 <p><b>Work Address:-V epiq cinema theater,sullurpeta, Sarvareddi Khandrika,Nellore District, Andhra Pradesh, 524121................................................................................</b></p>
+<center><h1 style="color:rgb">Team Leader Of V epiq(india's largest screen)</h1></center><div class="imagepart2">
 
 
 
