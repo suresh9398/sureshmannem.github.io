@@ -14,4 +14,8 @@
 <a href="contact.html">CONTACT</a>
 <a href="staff details.html">STAFF DETAILS</a>
 </div>
+  <div class="imagepart">
+<img src="https://english.cdn.zeenews.com/sites/default/files/2019/08/30/815223-theatre.jpg"/>
+</div>
+
 
