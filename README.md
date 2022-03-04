@@ -36,6 +36,8 @@ Constructed at a cost of Rs.10 crores, the 656-seater EPIQ screen packages state
 </p>
 </div>
 <center><h1 style="color:rgb">Cinema Manager Of V epiq(india's largest screen)</h1></center>
+![cm](https://user-images.githubusercontent.com/99287692/156847980-a538d4a3-662a-4e72-a7e2-97d7104385c1.jpeg)
+
 <div class="container">
 <img src="C:\Users\Admin\Downloads\cm.jpeg"/>
 <p><b>Muni Raja Reddy</b> is an present cinema manager of v epiq cinema theater(indias largest screen). he was came from <i> chilakalurupet</i> to <i> sullurupeta</i> for the orders of vcelluloids company as a cinema manager.and now he is doing great work and groomings in v epiq theater. for his hardwork , the v celluloids company giving higher position due to his consistency and hardwork and groomings. and he is very honest and thankful person to the staff...
@@ -48,6 +50,8 @@ he is working since 6 years in v celluloids company, he was joined GRA designati
 <center><h1 style="color:rgb">Store Manager Of V epiq(india's largest screen)</h1></center>
 <div class="imagepart1">
 <img src="C:\Users\Admin\Downloads\TL.jpeg"/>
+  ![TL](https://user-images.githubusercontent.com/99287692/156848140-a0eb5e20-a84b-4d5c-be2e-bc7f939ddd6a.jpeg)
+
 </div>
 <p><b>There Vinod Kumar</b> is an present store manager of v epiq cinmea theater(indias largest screen). he joined as GRA designation role in this company. for his hard work company was given store keeper opportunity as crucial key part.. and for the purpose of training he went to guntur(v platinum complex).. and returned home theater(v epiq) as a store manager....and as well as he is doing team leader role also in this v epiq cinmea theater..and he is very friendly and honestful to the staff.. because of he  was came from as a position og Gra to Store manager... every minute he is trying his efforts in this compnay...............................................................................................................................................
 <p><b style="color:green">Designation:-Store Manager</b></p>
@@ -57,6 +61,8 @@ he is working since 6 years in v celluloids company, he was joined GRA designati
 
 <center><h1 style="color:rgb">Team Leader Of V epiq(india's largest screen)</h1></center><div class="imagepart2">
 <img src="C:\Users\Admin\Downloads\TL2.jpeg"/>
+  ![TL2](https://user-images.githubusercontent.com/99287692/156848167-2416639a-b011-41c3-9091-8b2649140675.jpeg)
+
 </div>
 <p><b>Chirala Shiva Kumar</b> is an present Team Leader of v epiq cinmea theater(indias largest screen). he joined as GRA designation role in this company. for his hard work company was given Team leader role in this company.. present he is growing well as team leader..he is very friendly and honestful to the staff.. because of he  was came from as a position og Gra to Store manager... every minute he is trying his efforts in this compnay</p>
 <p><b style="color:blue">Designation:-Team Leader</b></p>
