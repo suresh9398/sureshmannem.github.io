@@ -16,7 +16,6 @@
 
  
 </div><a href="celebrations.html"> V epiq celebrations</a></center>
-    <img src="https://user-images.githubusercontent.com/99287692/156865093-2ebf5e6b-7b78-4c60-81fb-e14ef841a0c8.jpeg"/>
 
 
 
