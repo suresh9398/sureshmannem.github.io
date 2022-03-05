@@ -1,7 +1,7 @@
 <html>
 <head>
 <link href="suresh2ndmarch.css" rel="stylesheet" type="text/css">
- <link href="staff.css" rel="stylesheet" type="text/css">
+ <link href="staffmembers.css" rel="stylesheet" type="text/css">
  
   </head>
 
@@ -18,7 +18,7 @@
 <head>
 <title>staff</title>
 </head>
-<link href="staff.css" rel="stylesheet" type="text/css">
+<link href="staffmembers.css" rel="stylesheet" type="text/css">
 <body>
 <h1 style="color:skyblue">GRA's Staff List</h1>
 <div class= "staff">
