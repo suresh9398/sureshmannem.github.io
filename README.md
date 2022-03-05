@@ -12,17 +12,13 @@
 
 </p>
     <p><center><h3 style="color:brown">click the belown links to get the staff details</h3></center></p>
-    <center><a href="staff.html">STAFF DETAILS</a></center><center><a href="celebrations.html">V epiq celebrations</a></center>
+    <center><a href="staff.html">STAFF DETAILS</a></center><center><a href="celebrations.html"> V epiq celebrations</a></center>
+    <img src="https://user-images.githubusercontent.com/99287692/156865093-2ebf5e6b-7b78-4c60-81fb-e14ef841a0c8.jpeg"/>
+
 
 
   <P><center><h1 style="color:green">(india's largest cinema screen)</h1></center>
-  <div class="linkspart">
-   <center><a href="home.html">HOME</a></center><a href="contact.html">CONTACT</a><a href="staff details.html">STAFF DETAILS</a>
-
-
-<a href="contact.html">CONTACT</a>
-<a href="staff details.html">STAFF DETAILS</a>
-</div>
+  </div>
   <div class="imagepart">
 <img src="https://english.cdn.zeenews.com/sites/default/files/2019/08/30/815223-theatre.jpg"/>
 </div>
