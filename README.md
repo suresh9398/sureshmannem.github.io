@@ -6,7 +6,8 @@
 
 <body>
 <img src="https://cdn3.ticketnew.com/partners/img/VCelluloids/logo.png"/>
- <p><center><h1 style="color:purple";>About Vcelluloids Company</h1></center></p>
+   <P><center><h1 style="color:green">(india's largest cinema screen)</h1></center>
+ 
 <p>V Celluloids was established in the year 2014 with an objective of providing movie goers with the most satisfying cinematic experience. A strong team of professionals with nearly two decades of experience in film production and distribution having witnessed the travails of movie goers at town and rural level, felt that the experience of a film goer at town level was simply not satisfying unlike in cities where audiences have several choices. Resolving to work to change this situation, they established V Celluloids and began to explore the prospects of initiating the change. We believe that the experience of watching a movie has to be made enjoyable, comfortable, entertaining and relaxed to a viewer, which inevitably ensures that he returns for more, for a refreshingly wholesome experience. V Celluloids were the first players in regional cinema to introduce viewers many new experiences in Andhra and Telangana states.
 
 </p>
@@ -47,7 +48,7 @@ he is working since 6 years in v celluloids company, he was joined GRA designati
     <center><h1 style="color:rgb">Store Manager Of V epiq(india's largest screen)</h1></center>
 <div class="imagepart1">
 <img src="https://user-images.githubusercontent.com/99287692/156856931-b7a11e77-70b8-48a2-a1f3-6639014431ba.jpeg"/>
-  <p><b>There Vinod Kumar</b> is an present store manager of v epiq cinmea theater(indias largest screen). he joined as GRA designation role in this company. for his hard work company was given store keeper opportunity as crucial key part.. and for the purpose of training he went to guntur(v platinum complex).. and returned home theater(v epiq) as a store manager....and as well as he is doing team leader role also in this v epiq cinmea theater..and he is very friendly and honestful to the staff.. because of he  was came from as a position og Gra to Store manager... every minute he is trying his efforts in this compnay...............................................................................................................................................
+  <p><b>There Vinod Kumar</b> is an present store manager of v epiq cinmea theater(indias largest screen). he joined as a GRA designation role in this company. for his hard work company was given store keeper opportunity as crucial key part.. and for the purpose of training he went to guntur(v platinum complex).. and returned home theater(v epiq) as a store manager....and as well as he is doing team leader role also in this v epiq cinmea theater..and he is very friendly and honestful to the staff.. because of he  was came from as a position of  Gra to Store manager... every minute he is trying his efforts in this compnay...............................................................................................................................................
 <p><b style="color:green">Designation:-Store Manager</b></p>
 <p><b>for contact him:- 9876543210</b></p>
 <p><b>G-mail:-lovelyvinod@gmail.com</b></p>
@@ -55,7 +56,7 @@ he is working since 6 years in v celluloids company, he was joined GRA designati
 <center><h1 style="color:rgb">Team Leader Of V epiq(india's largest screen)</h1></center><div class="imagepart2">
 <img src="https://user-images.githubusercontent.com/99287692/156857163-4566ccd4-5941-4888-acd8-862e18a7cef8.jpeg"/>
   </div>
-<p><b>Chirala Shiva Kumar</b> is an present Team Leader of v epiq cinmea theater(indias largest screen). he joined as GRA designation role in this company. for his hard work company was given Team leader role in this company.. present he is growing well as team leader..he is very friendly and honestful to the staff.. because of he  was came from as a position og Gra to Store manager... every minute he is trying his efforts in this compnay</p>
+<p><b>Chirala Shiva Kumar</b> is an present Team Leader of v epiq cinmea theater(indias largest screen). he joined as a GRA designation role in this company. for his hard work company was given Team leader role in this company.. present he is growing well as team leader..he is very friendly and honestful to the staff.. because of he  was came from as a position of Gra to team leader... every minute he is trying his efforts in this compnay</p>
 <p><b style="color:blue">Designation:-Team Leader</b></p>
 <p><b>for contact him:-9876543210</b></p>
 <p><b>G-mail:-chiralashivakumar@gmail.com</b></p>
