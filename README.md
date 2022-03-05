@@ -16,6 +16,7 @@
 
  
 <center><a href="celebrations.html" target="_blank"> V epiq celebrations</a></center>
+    <center><a href="location.html" target="_blank">Lcation Of V epiq</a></center>
 
 
 
