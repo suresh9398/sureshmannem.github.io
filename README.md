@@ -65,7 +65,8 @@ he is working since 6 years in v celluloids company, he was joined GRA designati
 <p><b>Work Address:-V epiq cinema theater, sullurpeta, Sarvareddi Khandrika,Nellore District, Andhra Pradesh, 524121 .........................................................................................................................................................................</b></p>
  <p>..............................................................................................</p>
  <center><h1 style="color:rgb">Projectionist Of V epiq(india's largest screen)</h1></center>
- <p><b>Amuru Balaiah</b> is an projectionist of v epiq (india's largest screen). he joined as GRA designation role in this company. for his hard work company was given projectionist designation role in this company... present he is doing very well job as role of projectionist. and he is very friendly and opened person to the staff members...everyminute he is doing ver good efforts on his role....</p>
+ <p><b>Amuru Balaiah</b> is an projectionist of v epiq (india's largest screen). he joined as GRA designation role in this company. for his hard work company was given projectionist designation role in this company... present he is doing very well job as role of projectionist. and he is very friendly and opened person to the staff members...everyminute he is doing ver good efforts on his role............................................................................................................................................................................
+  <p>.....................................................................................................................................................................................</p>
 <p><b style="color:skyblue">Designation:-Projectionist</b></p>
  <img src="https://user-images.githubusercontent.com/99287692/156862827-a7e2abac-f60b-46d4-88f6-1ee2aed9e1cc.jpeg"/>
 <p><b>For Contact Him:-9876543210<b></p>
