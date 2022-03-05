@@ -12,7 +12,30 @@
 
 </p>
     <p><center><h3 style="color:brown">click the belown links to get the staff details</h3></center></p>
-    <center><a href="staff.html">STAFF DETAILS</a></center><center><a href="celebrations.html"> V epiq celebrations</a></center>
+    <center><a href="staff.html">STAFF DETAILS</a></center><center>
+    <html>
+<head>
+<title>staff</title>
+</head>
+<link href="staff.css" rel="stylesheet" type="text/css">
+<body>
+<h1 style="color:skyblue">GRA's Staff List</h1>
+<div class= "staff">
+<ol>
+<li>Govardhan</li>
+<li>Madhu</li>
+<li>Rajesh</li>
+<li>Dileep</li>
+<li>Cheanchiah</li>
+<li>Sagar</li>
+<li>Dayakar</li>
+<li>Venkateshwarlu</li>
+<li>Sreenuvasulu</li>
+<li>Narendra</li>
+<li>Srikanth</li>
+<li>Suresh</li>
+</ol>
+</div><a href="celebrations.html"> V epiq celebrations</a></center>
     <img src="https://user-images.githubusercontent.com/99287692/156865093-2ebf5e6b-7b78-4c60-81fb-e14ef841a0c8.jpeg"/>
 
 
