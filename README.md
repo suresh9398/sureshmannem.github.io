@@ -20,7 +20,6 @@
 
 
   <P><center><h1 style="color:green">(india's largest cinema screen)</h1></center>
-  </div>
   <div class="imagepart">
 <img src="https://english.cdn.zeenews.com/sites/default/files/2019/08/30/815223-theatre.jpg"/>
 </div>
