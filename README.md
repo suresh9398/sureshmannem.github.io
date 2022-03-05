@@ -15,7 +15,7 @@
     <center><a href="staff.html" target="_blank"> STAFF MEMBERS DETAILS</a></center>
 
  
-</div><a href="celebrations.html"> V epiq celebrations</a></center>
+<center><a href="celebrations.html" target="_blank"> V epiq celebrations</a></center>
 
 
 
