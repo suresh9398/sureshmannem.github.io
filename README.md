@@ -1,7 +1,6 @@
 <html>
 <head>
 <link href="suresh2ndmarch.css" rel="stylesheet" type="text/css">
- <link href="staffmembers.css" rel="stylesheet" type="text/css">
  
   </head>
 
@@ -13,7 +12,82 @@
 
 </p>
     <p><center><h3 style="color:brown">click the below links to get the staff details</h3></center></p>
-    <center><a href="staff.html">STAFF DETAILS</a></center><center>
+    <center><a href="staff.html">Navigate to STAFF page</a></center>
+    <html>
+<head>
+<title>staff</title>
+</head>
+<link href="staffmembers.css" rel="stylesheet" type="text/css">
+<body>
+<h1 style="color:skyblue">GRA's Staff List</h1>
+
+<table border="1" cellspacing="2">
+<tr>
+<th>SNO</th>
+<th>NAME</th>
+<th>DESIGNATION</th>
+</tr>
+<tr>
+<th>1</th>
+<th style="color:blue;">GOVARDHAN</th>
+<th style="color:green">GRA</th>
+</tr>
+<tr>
+<th>2</th>
+<th style="color:blue;">RAJESH</th>
+<th style="color:green">GRA</th>
+</tr>
+<tr>
+<th>3</th>
+<th style="color:blue;">MADHU</th>
+<th style="color:green">GRA</th>
+</tr>
+<tr>
+<th>4</th>
+<th style="color:blue">DILEEP</th>
+<th style="color:green">GRA</th>
+</tr>
+<tr>
+<th>5</th>
+<th style="color:blue">CHENCHAIAH</th>
+<th style="color:green">GRA</th>
+</tr>
+<tr>
+<th>6</th>
+<th style="color:blue;">SAGAR</th>
+<th style="color:green">GRA</th>
+</tr>
+<tr>
+<th>7</th>
+<th style="color:blue;">VENKATESHWARLU</th>
+<th style="color:green">GRA</th>
+</tr>
+<tr>
+<th>8</th>
+<th style="color:blue;">DAYAKAR</th>
+<th style="color:green">GRA</th>
+</tr>
+<tr>
+<th>9</th>
+<th style="color:blue;">NARENDRA</th>
+<th style="color:green">GRA</th>
+</tr>
+<tr>
+<th>10</th>
+<th style="color:blue;">SREENEVASULU</th>
+<th style="color:green">GRA</th>
+</tr>
+<tr>
+<th>11</th>
+<th style="color:blue;">SRIKANTH</th>
+<th style="color:green">GRA</th>
+</tr>
+<tr>
+<th>12</th>
+<th style="color:blue;">SURESH</th>
+<th style="color:green">GRA</th>
+</tr>
+</table>
  
 </div><a href="celebrations.html"> V epiq celebrations</a></center>
     <img src="https://user-images.githubusercontent.com/99287692/156865093-2ebf5e6b-7b78-4c60-81fb-e14ef841a0c8.jpeg"/>
