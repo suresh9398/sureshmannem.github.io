@@ -64,6 +64,28 @@ he is working since 6 years in v celluloids company, he was joined GRA designati
 <p><b>G-mail:-chiralashivakumar@gmail.com</b></p>
 <p><b>Work Address:-V epiq cinema theater, sullurpeta, Sarvareddi Khandrika,Nellore District, Andhra Pradesh, 524121 .........................................................................................................................................................................</b></p>
  <p>..............................................................................................</p>
+ <center><h1 style="color:rgb">Projectionist Of V epiq(india's largest screen)</h1></center>
+ <p><b>Amuru Balaiah</b> is an projectionist of v epiq (india's largest screen). he joined as GRA designation role in this company. for his hard work company was given projectionist designation role in this company... present he is doing very well job as role of projectionist. and he is very friendly and opened person to the staff members...everyminute he is doing ver good efforts on his role....</p>
+<p><b style="color:skyblue">Designation:-Projectionist</b></p>
+ <img src="https://user-images.githubusercontent.com/99287692/156862827-a7e2abac-f60b-46d4-88f6-1ee2aed9e1cc.jpeg"/>
+<p><b>For Contact Him:-9876543210<b></p>
+<p><b>G-mail:-amurubalaiah@gmail.com</b></p>
+<p><b>Work Address:-V epiq cinema theater, sullurpeta, Sarvareddi Khandrika,Nellore District, Andhra Pradesh, 524121</b></p>
+ <center><h1 style="color:rgb">Bakery Incharge Of V epiq(india's largest screen)</h1></center>
+<img src="https://user-images.githubusercontent.com/99287692/156862946-67e025c1-f486-48b8-b734-d5fe65299189.jpeg"/>
+ <p><b>Tapas Mandal</b> is an bakery incharge of v epiq (india's largest screen).he is working  since from 4 years in this company.. he is doing not only his work, he is doing as well as other works like team leader position, projectionist, gra, chef, monitoring his bakery staff, and control them, with his hardwork he did a great job in this company... many more success to come...</p>
+
+<p><b style="color:red">Designation:-Bakery Incharge</b></p>
+<p><b>for contact him:-9876543210</b></p>
+<p><b>gmail:-tapasmandal@gmail.com</b></p>
+<p><b>work address:-V epiq cinema theater, sullurpeta, Sarvareddi Khandrika,Nellore District, Andhra Pradesh, 524121<b></p>
+
+ 
+
+
+
+ 
+
   <center><p><h2 style="color:DodgerBlue">All Rights Reserved At MR.SURESH MANNEM@2022</h2></p></center>
 
  
