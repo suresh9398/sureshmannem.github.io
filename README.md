@@ -6,7 +6,7 @@
 
 <body>
 <img src="https://cdn3.ticketnew.com/partners/img/VCelluloids/logo.png"/>
- <p><center><h1 style="color:purple;>About Vcelluloids Company</h1></center></p>
+ <p><center><h1 style="color:purple";>About Vcelluloids Company</h1></center></p>
 <p>V Celluloids was established in the year 2014 with an objective of providing movie goers with the most satisfying cinematic experience. A strong team of professionals with nearly two decades of experience in film production and distribution having witnessed the travails of movie goers at town and rural level, felt that the experience of a film goer at town level was simply not satisfying unlike in cities where audiences have several choices. Resolving to work to change this situation, they established V Celluloids and began to explore the prospects of initiating the change. We believe that the experience of watching a movie has to be made enjoyable, comfortable, entertaining and relaxed to a viewer, which inevitably ensures that he returns for more, for a refreshingly wholesome experience. V Celluloids were the first players in regional cinema to introduce viewers many new experiences in Andhra and Telangana states.
 
 </p>
@@ -61,7 +61,7 @@ he is working since 6 years in v celluloids company, he was joined GRA designati
 <p><b>G-mail:-chiralashivakumar@gmail.com</b></p>
 <p><b>Work Address:-V epiq cinema theater, sullurpeta, Sarvareddi Khandrika,Nellore District, Andhra Pradesh, 524121 .................................................................................................................................................................................................</b></p>
   <center><p><h2 style="color:DodgerBlue">All Rights Reserved At MR.SURESH MANNEM@2022</h2></p></center>
-</div>
+
  
 
 
