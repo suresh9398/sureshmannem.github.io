@@ -13,7 +13,9 @@
 </p>
   <P><center><h1 style="color:green">(india's largest cinema screen)</h1></center>
   <div class="linkspart">
-   <center><a href="home.html">HOME</a></center>
+   <center><a href="home.html">HOME</a></center><a href="contact.html">CONTACT</a><a href="staff details.html">STAFF DETAILS</a>
+
+
 <a href="contact.html">CONTACT</a>
 <a href="staff details.html">STAFF DETAILS</a>
 </div>
@@ -61,6 +63,7 @@ he is working since 6 years in v celluloids company, he was joined GRA designati
 <p><b>for contact him:-9876543210</b></p>
 <p><b>G-mail:-chiralashivakumar@gmail.com</b></p>
 <p><b>Work Address:-V epiq cinema theater, sullurpeta, Sarvareddi Khandrika,Nellore District, Andhra Pradesh, 524121 .........................................................................................................................................................................</b></p>
+ <p>..............................................................................................</p>
   <center><p><h2 style="color:DodgerBlue">All Rights Reserved At MR.SURESH MANNEM@2022</h2></p></center>
 
  
